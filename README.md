@@ -20,7 +20,7 @@ Minimal full-stack take-home app for parsing receipt images with an LLM, correct
 ## Run locally
 
 1. Add your API key:
-   - Copy `backend/.env.example` to `backend/.env` (or set env vars in your shell).
+   -  `backend/.env` (or set env vars in your shell).
 2. Start both frontend + backend (single command):
    - `npm run dev`
    - First run auto-installs `backend` and `frontend` dependencies via `predev`.
